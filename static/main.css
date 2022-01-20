@@ -1,0 +1,75 @@
+.img {
+    margin-top: 25px;
+    margin-left: 160px
+}
+
+.sign {
+    margin-top: 65px;
+    align-items: left;
+    font-size: 38px;
+
+}
+
+.button {
+    background-color: gold;
+    width: 400px;
+}
+
+.help {
+    padding: 50px;
+
+}
+
+.new {
+    font-size: 16px;
+    /* margin-left: 140px; */
+    margin-bottom:25px;
+    display:inline-block;
+}
+
+.button2 {
+    width: 400px;
+    margin-bottom:35px;
+}
+
+.forgot{
+    margin-left: 250px;
+    font-size: 16px;
+    margin-bottom:5px;
+}
+
+.pw{
+    margin-bottom: -32px;
+    margin-left: -15px;
+}
+
+.footer{
+    padding: 15px;
+  
+
+}
+
+.copyright{
+    padding-top: 15px;
+    margin-left: 25px;
+    margin-bottom: 100px;
+}
+
+.form-control{
+    width:400px;
+    height: 30px;
+    border-radius: 0;
+}
+
+.span{
+    height:1px;
+    background-color: black;
+    width:123px;
+    display:inline-block;
+    vertical-align: middle;
+    
+
+}
+
+
+
